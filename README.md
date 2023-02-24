@@ -1,8 +1,8 @@
 # hello-world
 First repository
-**Name:** *Weston Cox*
-**School:** *University of Arkansas*
-Date: 2/24/2023
+**Name:** *Weston Cox* <br>
+**School:** *University of Arkansas* <br>
+Date: 2/24/2023 <br>
 
 > This repository is the beginning of a long, fulfilling journey, and I am excited to see where it takes me.
 
